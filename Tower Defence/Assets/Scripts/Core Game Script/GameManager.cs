@@ -10,11 +10,11 @@ public class GameManager : MonoBehaviour
     void Start()
     {
     }
-
     // Update is called once per frame
     void Update()
     {
-       timer =_ChestObject.CountDownTimer();
+        timer = _ChestObject.CountDownTimer();
         Debug.Log(timer);
+
     }
 }

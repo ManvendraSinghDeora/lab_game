@@ -18,7 +18,6 @@ public class Chest : ScriptableObject
     private void OnEnable()
     {
         _TimeLeft = _ChestTime;
-        Debug.Log(_TimeLeft+"OnEnable");
     }
 
     public string CountDownTimer()
