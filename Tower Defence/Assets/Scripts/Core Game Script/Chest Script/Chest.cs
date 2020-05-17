@@ -15,11 +15,6 @@ public class Chest : ScriptableObject
     public string _Discription;
     public Sprite _Artwork;
 
-    private void Awake()
-    {
-        Debug.Log("Function");
-    }
-
     private void OnEnable()
     {
         _TimeLeft = _ChestTime;
