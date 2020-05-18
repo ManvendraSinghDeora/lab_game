@@ -151,6 +151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _ChestObject: {fileID: 11400000, guid: 48764f655070acf409969177f8cf3c4d, type: 2}
+  _BulidingObject: {fileID: 11400000, guid: f951f45cdaf64d741a8cda9260b1de07, type: 2}
 --- !u!4 &958719477
 Transform:
   m_ObjectHideFlags: 0

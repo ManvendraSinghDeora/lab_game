@@ -8,5 +8,5 @@ public class TroopObject : ScriptableObject
     public new string name;
     public int Health;
     public int AttackDamage;
-
+    public Sprite _Artwork;
 }
