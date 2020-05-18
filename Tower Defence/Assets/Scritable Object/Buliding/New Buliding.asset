@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8baae876f85c8fc4c8382546761c271d, type: 3}
+  m_Name: New Buliding
+  m_EditorClassIdentifier: 
+  _CurrentStroageCapacity: 20
+  _CurrentArtWork: {fileID: 21300000, guid: 76e4e37ef82b53d4db2e42657e4f5bd9, type: 3}
+  _CurrentLevel: 1
+  _Levels:
+  - _TotalCapacity: 20
+    _ArtWork: {fileID: 21300000, guid: 76e4e37ef82b53d4db2e42657e4f5bd9, type: 3}
+    _Range: 0
+  - _TotalCapacity: 30
+    _ArtWork: {fileID: 21300000, guid: fcdc9ddba3144c24092666a8dc81c1d6, type: 3}
+    _Range: 0

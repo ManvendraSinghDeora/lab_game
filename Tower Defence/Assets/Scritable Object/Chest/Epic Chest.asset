@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Epic Chest
   m_EditorClassIdentifier: 
   name: Epic Chest
-  _ChestTime: 120
+  _ChestTime: 30
   _Discription: 
   _Artwork: {fileID: 0}
